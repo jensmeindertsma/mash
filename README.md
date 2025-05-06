@@ -1,6 +1,6 @@
 # 🥔 mash
 
-My salty and soft baby shell.
+My salty shell.
 
 ## CodeCrafters
 
